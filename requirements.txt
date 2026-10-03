@@ -1,0 +1,12 @@
+streamlit>=1.50,<2
+openai>=1.100,<3
+requests>=2.32,<3
+trimesh>=4.6,<5
+numpy>=2,<3
+cadquery>=2.6,<3
+pyvista>=0.46,<1
+stpyvista>=0.1,<1
+pinecone>=7,<8
+langchain-core>=0.3,<2
+langchain-openai>=0.3,<2
+langchain-pinecone>=0.2,<2
